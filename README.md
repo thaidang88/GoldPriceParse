@@ -1,2 +1,4 @@
 # GoldPriceParse
- Gold Price Parse from Kitco Website
+ Gold Price Parse from Kitco Website 
+ Code by Thai Dang
+ 

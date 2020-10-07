@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gold Price Parse From Kitco</string>
+    <string name="bid">Bid</string>
+    <string name="ask">Ask</string>
+    <string name="add_minus">+-</string>
+    <string name="percentage">%</string>
+    <string name="updating">Updating</string>
+    <string name="loading">Loading</string>
+</resources>
